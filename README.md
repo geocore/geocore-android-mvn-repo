@@ -14,6 +14,6 @@ Then add the dependency:
 dependencies {
     // other dependencies...
     
-    compile 'jp.geocore.android:geocore-api-android:0.2.25@aar'
+    compile 'jp.geocore.android:geocore-api-android:0.3.3@aar'
 }
 ```
